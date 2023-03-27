@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	justify-content:center;
+}
+.one, .two, .three{
+	height:100px;
+	width:100px;
+}
+.one{background-color:red}
+.two{background-color:blue}
+.three{background-color:green}
