@@ -1,8 +1,9 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
 	display:flex;
 	justify-content:center;
+	flex-wrap:wrap;
 }
 .one, .two, .three{
 	height:100px;
